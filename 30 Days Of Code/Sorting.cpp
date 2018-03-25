@@ -1,5 +1,7 @@
+/*
+https://www.hackerrank.com/challenges/30-sorting/problem
+*/
 #include <bits/stdc++.h>
-
 using namespace std;
 
 int main() {
@@ -26,4 +28,3 @@ int main() {
     cout << "Last Element: " << a[a.size()-1];
     return 0;
 }
-
