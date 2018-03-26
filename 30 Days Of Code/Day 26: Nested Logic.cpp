@@ -33,10 +33,10 @@ int main(int argc, const char* args[]){
             fine = (actualMonth - expectedMonth) * 500;
         }
         else if( (expectedMonth == actualMonth) && (expectedDay < actualDay) )
-				{
-            		// Returned 1+ days late within the current month
-            		fine = (actualDay - expectedDay) * 15;
-        		}
+		{
+           		// Returned 1+ days late within the current month
+          		fine = (actualDay - expectedDay) * 15;
+        }
         // Else it is implied that the book was returned early
     }
     else if(expectedYear < actualYear){
