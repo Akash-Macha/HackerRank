@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/challenges/python-lists/problem
+# How to use split function
 if __name__ == '__main__':
     l = []
     n = int(input())
