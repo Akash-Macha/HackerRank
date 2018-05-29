@@ -1,6 +1,6 @@
 /*
-Code has errors!
-Cannot complete this problem, i will give it a shot later.
+##  Code has errors!
+##  Cannot complete this problem, i will try it later.
 /*
 #include<bits/stdc++.h>
 
