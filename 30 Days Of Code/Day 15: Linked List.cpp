@@ -2,7 +2,7 @@
 /*
 First thought : I have directly started solving the problem with my previous knowledge on LinkedList,
 But I have failed to complete it for attempting more than thrice.
-Then, I checked Disscussion -> and figured out Recursion version of solution in Java, 
+Then, I checked Disscussion -> and figured out "Recursion version" of solution in Java, 
 Then, I have made C++ version of that solution, like below.
 */
 
